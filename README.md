@@ -10,6 +10,8 @@
 [Inavolu Sai Chaitanya Vishnu Kanth](https://github.com/Sai-1305) <br>
 [Chigurupati Prudhvi](https://github.com/prudhvichigurupati) <br>
 [Project board](https://github.com/users/Sai-1305/projects/2)
+![Board_1](/Board_1.png "Image-1")
+![Board_2](/Board_2.png "Image-2")
 
 ---
 
